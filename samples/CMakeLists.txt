@@ -58,3 +58,5 @@ add_subdirectory(NativeEOL)
 add_subdirectory(ObjectiveC)
 add_subdirectory(Performance)
 add_subdirectory(UtcTime)
+add_subdirectory(FileRenameAppender)
+

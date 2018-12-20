@@ -1,0 +1,4 @@
+add_executable(FileRenameAppender Main.cpp)
+
+target_link_libraries(FileRenameAppender plog)
+set_target_properties(FileRenameAppender PROPERTIES FOLDER Samples)
